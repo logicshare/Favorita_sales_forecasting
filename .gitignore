@@ -1,0 +1,8 @@
+# Ignore csv data files
+*.csv
+
+# Ignore model files
+*.bin
+
+# Ignore png files
+*.png
